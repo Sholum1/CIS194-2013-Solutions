@@ -1,4 +1,0 @@
-[[https://www.seas.upenn.edu/~cis1940/spring13/lectures.html][Introductory Haskell course of the University of Pennsylvania]]
-
-[[https://www.learnyouahaskell.com/][Learn you a haskell]]
-[[https://book.realworldhaskell.org/][Real World Haskell]]
